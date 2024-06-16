@@ -1,0 +1,14 @@
+{
+  "name": "Adam",
+  "number": "",
+  "features": {
+    "broadcast": { "status": true, "blacklist": ["6281214557752"], "text": "" },
+    "pushContacts": {
+      "status": true,
+      "blacklist": ["6281214557752"],
+      "text": ""
+    },
+    "antiCall": { "status": true },
+    "safeMode": { "status": false }
+  }
+}
